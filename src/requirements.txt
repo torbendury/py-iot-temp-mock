@@ -1,0 +1,9 @@
+# serverless functions framework for python, made by Google
+# https://github.com/GoogleCloudPlatform/functions-framework-python
+functions-framework==3.*
+
+# lightweight webapp framework for python
+Flask==2.2.2
+
+# python client for GCP PubSub
+google-cloud-pubsub
